@@ -1231,3 +1231,4 @@ struct bfq_group *bfq_create_group_hierarchy(struct bfq_data *bfqd, int node)
 	return bfqg;
 }
 #endif	/* CONFIG_BFQ_GROUP_IOSCHED */
+
